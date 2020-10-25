@@ -186,10 +186,10 @@ workshops:
 # Projects section
 projects:
   item1:
-    title: Flask Resume Template
+    title: flask-resume-template
     subtitle: A resume template built with Flask
     description: An easy-to-configure simple resume template built with Flask and Bootstrap.
-    link: https://flask-resume-template.glitch.me
+    link: https://resumetemplatejoseescamilla.glitch.me/
     github: https://github.com/Jose-Escamilla/Flask-Resume-Template/
     img: resume.png
     tags: [Flask, Python, Bootstrap]
@@ -197,7 +197,7 @@ projects:
     title: Sci-Hub-2020
     subtitle: A Google Extension
     description: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 2020.
-    link:
+    link: https://github.com/Jose-Escamilla/Sci-Hub-2020
     github: https://github.com/Jose-Escamilla/Sci-Hub-2020
     img: scihub.png
     tags: [JavaScript]
@@ -205,7 +205,7 @@ projects:
     title: Game of Live
     subtitle: Conway Life Game
     description: Conway Life Game with Python, one of the most famous cellular automaton systems.
-    link:
+    link: https://github.com/Jose-Escamilla/Game-of-Live
     github: https://github.com/Jose-Escamilla/Game-of-Live
     img: gameoflive.png
     tags: [Python]
@@ -213,7 +213,7 @@ projects:
     title: Comparative Data Analysis of Coronavirus, Ebola and SARS Outbreaks
     subtitle: Google Colab Notebook
     description: Comparative analysis of data from Coronavirus, Ebola and SARS outbreaks using Python, Geopandas.
-    link:
+    link: https://github.com/Jose-Escamilla/Comparative-Data-Analysis-of-Coronavirus-Ebola-and-SARS-Outbreaks/blob/master/Comparative%20Data%20Analysis%20of%20Coronavirus%2C%20Ebola%20and%20SARS%20Outbreaks.ipynb
     github: https://github.com/Jose-Escamilla/Comparative-Data-Analysis-of-Coronavirus-Ebola-and-SARS-Outbreaks
     img: comparativeanalysis.png
     tags: [Python, Matplotlib, Geopandas]
@@ -221,7 +221,7 @@ projects:
     title: Coronavirus Time Series Prediction
     subtitle: Google Colab Notebook
     description: Predicting Coronavirus Outbreak and Recovery Rate with Facebook Prophet.
-    link:
+    link: https://github.com/Jose-Escamilla/Coronavirus-Time-Series-Prediction/blob/master/Coronavirus_Time_Series_Prediction.ipynb
     github: https://github.com/Jose-Escamilla/Coronavirus-Time-Series-Prediction
     img: covidprediction.png
     tags: [Python, Matplotlib, fbprophet]
@@ -229,7 +229,7 @@ projects:
     title: Data Analysis of Coronavirus Cases
     subtitle: Google Colab Notebook
     description: Simple exploratory data analysis of the coronavirus outbreak using Python and Geopandas.
-    link:
+    link: https://github.com/Jose-Escamilla/Data-Analysis-of-Coronavirus-Cases/blob/master/Coronavirus14-03-20.ipynb
     github: https://github.com/Jose-Escamilla/Data-Analysis-of-Coronavirus-Cases
     img: covidcases.png
     tags: [Python, Seaborn, Matplotlib, Geopandas]
@@ -268,3 +268,4 @@ awards:
   - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓN 2017'
   - 'Arduino Course: Basic, Intermediate and Advanced – PMC 2017'
   - 'Dispositivos Electrónicos Orgánicos – Clubes de Ciencia México 2016'
+
