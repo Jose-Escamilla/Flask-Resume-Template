@@ -1,0 +1,270 @@
+# Profile section
+profile:
+  first_name: José
+  last_name: Escamilla
+  # picture: static/img/jose.jpg   # Hosted picture
+  picture: static/img/jose.gif  # Local picture
+  contact:
+    address_one: León, Guanajuato
+    address_two:
+    phone: (477) ASK-4-IT!
+  email: 16240212@leon.tecnm.mx
+  description: >
+    I am a science enthusiast, currently I am an engineering student, which allows me to know different branches where science is applied; In general I am interested in everything that is science and technology, I like to share a little of what I know about it.
+    An eternal learner.
+
+
+# Social section
+social:
+  website:
+  github: https://github.com/Jose-Escamilla/
+  twitter:
+  linkedin:
+  facebook: https://www.facebook.com/profile.php?id=100001239615583
+  dev:
+  medium:
+  whatsapp: https://web.whatsapp.com/
+
+
+# Experience section
+experience:
+  item0:
+    position: Collaborator
+    company: Instituto Tecnológico de León
+    from: October 2019
+    to: October 2019
+    description: >
+      Virtual and introductory course to the Arduino microcontroller given during the 2019 engineering week at the Tecnológico de León Campus 2.
+    link: http://semanaitl.itleon.edu.mx/index.php/programa
+  item1:
+    position: Collaborator
+    company: Instituto Tecnológico de León
+    from: October 2018
+    to: October 2018
+    description: >
+      Virtual and introductory course to the Arduino microcontroller given during the 2018 engineering week at the Tecnológico de León Campus 2.
+    link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=468&catid=2&Itemid=101
+  item2:
+    position: Collaborator
+    company: Instituto Tecnológico de León
+    from: October 2017
+    to: October 2017
+    description: >
+      Virtual and introductory course to the Arduino microcontroller given during the 2017 engineering week at the Tecnológico de León Campus 2.
+    link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=391:4-semana-de-ingenieria-innovacion-y-desarrollo-sostenible-2&catid=33&Itemid=355
+  item3:
+    position: Collecting Agent
+    company: MCA Muñoz
+    from: May 2015
+    to: July 2016
+    description: >
+      He made different collection managements.
+    link:
+  item4:
+    position: Quality Control
+    company: Calzado ODEON
+    from: February 2010
+    to: May 2015
+    description: >
+      During this time I managed to have staff in my charge, without having any mishaps in spite of the great pressures in this position.
+#####
+#  item5:
+#    position:
+#    company:
+#    from:
+#    to:
+#    description: >
+#
+#  reference:
+####
+
+# Education section
+education:
+  item1:
+    institution: INSTITUTO TECNOLÓGICO DE LEÓN / TecNM.
+    program: Metal - Mechanical Area
+    description: Bachelor of Science in Mechatronics Engineering with a specialization in design as a terminal area.
+    from: February 2016
+    to: Present
+#  item2:
+#    institution: .
+#    program:
+#    description:
+#    from:
+#    to:
+#  item3:
+#    institution:
+#    program:
+#    description:
+#    from:
+#    to:
+#  reference:
+
+
+# Community section:
+community:
+  item0:
+    institution: CiIENCIA AZUL A.C.
+    program: MEMBER AND INSTRUCTOR
+    description: "A divulging member whose role was to link science, technology, art and knowledge in general in the daily life of children and young people of school age in the city of León, Guanajuato, through Science Clubs and divulging workshops."
+    from: June 2019
+    to: August 2019
+    link:
+#  item1:
+#    institution:
+#    program:
+#    description: "Co-founder and coordinator of ."
+#    from:
+#    to:
+#    link:
+#  item2:
+#    institution:
+#    program:
+#    description:
+#    from:
+#    to: Present
+#    link:
+#  item3:
+#    institution:
+#    program:
+#    description:
+#    to: Present
+#    link:
+#  item4:
+#    institution:
+#    program:
+#    description:
+#    from:
+#    to:
+#    link:
+#  reference:
+
+
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - cuttlefish
+  - python
+  - jsfiddle
+  - html5
+  - markdown
+  - github
+  - git-alt
+  - linux
+  - google
+  - google-drive
+  - whmcs
+extra_skills:
+  - NX for part and mold desig
+  - Web design with Flask
+  - Image processing
+  - Many Python packages – NumPy, matplotlib, etc.
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: Arduino Primeros Pasos
+    workshop: Virtual/presential and introductory course to the Arduino microcontroller, October 2020.
+    material: https://arduinoprimerospasos.glitch.me/
+    link: https://www.itleon.edu.mx/documents/A-triptico-patrocinadores.pdf
+#  item1:
+#    event:
+#    workshop:
+#    material:
+#    link:
+#  item3:
+#    event:
+#    workshop:
+#    material:
+#    link:
+#  reference:
+
+
+# Projects section
+projects:
+  item1:
+    title: flask-resume-template
+    subtitle: A resume template built with Flask
+    description: An easy-to-configure simple resume template built with Flask and Bootstrap.
+    link: https://flask-resume-template.glitch.me
+    github: https://github.com/RodolfoFerro/flask-resume-template/
+    img: resume.png
+    tags: [Flask, Python, Bootstrap]
+  item2:
+    title: Sci-Hub-2020
+    subtitle: A Google Extension
+    description: Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 2020.
+    link:
+    github: https://github.com/Jose-Escamilla/Sci-Hub-2020
+    img: scihub.png
+    tags: [JavaScript]
+  item3:
+    title: Game of Live
+    subtitle: Conway Life Game
+    description: Conway Life Game with Python, one of the most famous cellular automaton systems.
+    link:
+    github: https://github.com/Jose-Escamilla/Game-of-Live
+    img: gameoflive.png
+    tags: [Python]
+  item4:
+    title: Comparative Data Analysis of Coronavirus, Ebola and SARS Outbreaks
+    subtitle: Google Colab Notebook
+    description: Comparative analysis of data from Coronavirus, Ebola and SARS outbreaks using Python, Geopandas.
+    link:
+    github: https://github.com/Jose-Escamilla/Comparative-Data-Analysis-of-Coronavirus-Ebola-and-SARS-Outbreaks
+    img: comparativeanalysis.png
+    tags: [Python, Matplotlib, Geopandas]
+  item5:
+    title: Coronavirus Time Series Prediction
+    subtitle: Google Colab Notebook
+    description: Predicting Coronavirus Outbreak and Recovery Rate with Facebook Prophet.
+    link:
+    github: https://github.com/Jose-Escamilla/Coronavirus-Time-Series-Prediction
+    img: covidprediction.png
+    tags: [Python, Matplotlib, fbprophet]
+  item6:
+    title: Data Analysis of Coronavirus Cases
+    subtitle: Google Colab Notebook
+    description: Simple exploratory data analysis of the coronavirus outbreak using Python and Geopandas.
+    link:
+    github: https://github.com/Jose-Escamilla/Data-Analysis-of-Coronavirus-Cases
+    img: covidcases.png
+    tags: [Python, Seaborn, Matplotlib, Geopandas]
+  item7:
+    title: Arduino Primeros Pasos
+    subtitle: A template built with Flask
+    description: Page of the course given during the engineering week at the Tecnológico de León Campus 2.
+    link: https://arduinoprimerospasos.glitch.me/
+    github: https://github.com/Jose-Escamilla/Pagina-Arduino
+    img: arduinopage.png
+    tags: [Flask, Python, Bootstrap]
+  item8:
+    title: Computer Aided Design and Engineering Course
+    subtitle: A template built with Flask
+    description: Computer Aided Design course page.
+    link: https://nxdiseno840.glitch.me/
+    github: https://github.com/Jose-Escamilla/Pagina-Diseno
+    img: nxcourse.png
+    tags: [Flask, Python, Bootstrap]
+  item9:
+    title: Iris Flower App
+    subtitle: Iris Flower With Artificial Neurons
+    description: Page where you can enter the measurements of your Iris flower to find out what type of flower you are measuring.
+    link: https://irisflower.glitch.me/
+    github: https://github.com/Jose-Escamilla/iris-app
+    img: irisflower.png
+    tags: [Flask, Python, Bootstrap]
+
+
+# Certifications and awards section
+awards:
+  - 'Learn Python 3 Course – Codecademy 2020'
+  - 'Create Your Own Wireless Power Circuit – Iron Land 2020'
+  - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓN 2019'
+  - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓNo 2018'
+  - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓN 2017'
+  - 'Arduino Course: Basic, Intermediate and Advanced – PMC 2017'
+  - 'Dispositivos Electrónicos Orgánicos – Clubes de Ciencia México 2016'
