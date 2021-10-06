@@ -273,9 +273,12 @@ projects:
 
 # Certifications and awards section
 awards:
+  - 'TOEFL ITP B1 - TOEFL Sep. 2021'
+  - 'Graph Search, Shortest Paths, and Data Structures - Coursera|Stanford Online 2021'
   - 'Divide and Conquer, Sorting and Searching, and Randomized Algorithms - Coursera|Stanford Online 2021'
   - 'CIMAT Summer School - CIMAT 2021'
   - 'Deep Learning with TensorFlow - IBM Developer Skills Network 2021'
+  - 'Deep Learning Fundamentals - IBM Developer Skills Network 2021'
   - 'Python for Data Science - IBM Developer Skills Network 2021'
   - 'Machine Learning Crash Course with TensorFlow APIs - Google Developers 2021'
   - 'Programming Robots with ROS - Udemy 2021'
