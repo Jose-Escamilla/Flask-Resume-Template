@@ -119,13 +119,13 @@ community:
     from: June 2019
     to: August 2019
     link:
-#  item1:
-#    institution:
-#    program:
-#    description: "Co-founder and coordinator of ."
-#    from:
-#    to:
-#    link:
+  item1:
+    institution: Arduino Primeros Pasos
+    program: FOUNDER AND INSTRUCTOR 
+    description: "Founder and instructor of the Arduino Primeros Pasos course taught within the community of the Instituto Tecnológico de León. "
+    from: October 2017
+    to: Present
+    link: http://arduinoprimerospasos.glitch.me/
 #  item2:
 #    institution:
 #    program:
