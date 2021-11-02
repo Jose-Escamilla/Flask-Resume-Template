@@ -12,8 +12,6 @@ profile:
   description: >
     I am a science enthusiast, currently I am an engineering student, which allows me to know different branches where science is applied; In general I am interested in everything that is science and technology, I like to share a little of what I know about it.
     An eternal learner.
-
-
 # Social section
 social:
   website:
@@ -39,12 +37,20 @@ experience:
   item1:
     position: Collaborator
     company: Instituto Tecnológico de León
+    from: October 2021
+    to: October 2021
+    description: >
+      Virtual and introductory course to the Arduino microcontroller given during the 2021 engineering week at the Tecnológico de León Campus 2.
+    link: hhttps://leon.tecnm.mx/wp-content/uploads/2021/10/semana.pdf
+  item2:
+    position: Collaborator
+    company: Instituto Tecnológico de León
     from: October 2020
     to: October 2020
     description: >
       Virtual and introductory course to the Arduino microcontroller given during the 2020 engineering week at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/documents/A-triptico-patrocinadores.pdf
-  item2:
+  item3:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2019
@@ -52,7 +58,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2019 at the Tecnológico de León Campus 2.
     link: http://semanaitl.itleon.edu.mx/index.php/programa
-  item3:
+  item4:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2018
@@ -60,7 +66,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2018 at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=468&catid=2&Itemid=101
-  item4:
+  item5:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2017
@@ -68,22 +74,15 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2017 at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=391:4-semana-de-ingenieria-innovacion-y-desarrollo-sostenible-2&catid=33&Itemid=355
-  item5:
-    position: Collecting Agent
-    company: MCA Muñoz
-    from: May 2015
-    to: July 2016
-    description: >
-      He made different collection managements.
-    link:
-  item6:
-    position: Quality Control
-    company: Calzado ODEON
-    from: February 2010
-    to: May 2015
-    description: >
-      During this time I managed to have staff in my charge, without having any mishaps in spite of the great pressures in this position.
-
+  #item6:
+  #  position: Collecting Agent
+  #  company: MCA Muñoz
+  #  from: May 2015
+  #  to: July 2016
+  #  description: >
+  #    He made different collection managements.
+  #  link:
+  
 #  reference:
 
 
@@ -274,6 +273,8 @@ projects:
 # Certifications and awards section
 awards:
   - 'TOEFL ITP B1 - TOEFL Sep. 2021'
+  - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓN 2021'
+  - 'Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming - Coursera|Stanford Online 2021'
   - 'Graph Search, Shortest Paths, and Data Structures - Coursera|Stanford Online 2021'
   - 'Divide and Conquer, Sorting and Searching, and Randomized Algorithms - Coursera|Stanford Online 2021'
   - 'CIMAT Summer School - CIMAT 2021'
