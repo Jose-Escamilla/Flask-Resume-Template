@@ -26,6 +26,14 @@ social:
 # Experience section
 experience:
   item0:
+    position: Teacher
+    company: Conamat León
+    from: January 2022
+    to: Actuality
+    description: >
+      Informatics teacher. Performing theoretical and practical course planning activities, provides continuous feedback at the end of each class, prepares assignments and exams, resolves doubts, reviews assignments and takes average scores.
+    link: https://www.conamat.com/planteles/leon
+  item1:
     position: Professional Internships
     company:  CIMAT, Centro de Investigación en Matemáticas A.C.
     from: January 2021
@@ -33,7 +41,7 @@ experience:
     description: >
       I have participated in a research project in the area of computer science at CIMAT. The project consisted of designing and evaluating pedestrian trajectory prediction algorithms with deep learning techniques, using data that are time series of pedestrian positions (trajectories), all corresponding to time intervals of the same duration, thus inferring what will happen in the near future.
     link: https://pcc.cimat.mx/
-  item1:
+  item2:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2021
@@ -41,7 +49,7 @@ experience:
     description: >
       Virtual and introductory course to the Arduino microcontroller given during the 2021 engineering week at the Tecnológico de León Campus 2.
     link: hhttps://leon.tecnm.mx/wp-content/uploads/2021/10/semana.pdf
-  item2:
+  item3:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2020
@@ -49,7 +57,7 @@ experience:
     description: >
       Virtual and introductory course to the Arduino microcontroller given during the 2020 engineering week at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/documents/A-triptico-patrocinadores.pdf
-  item3:
+  item4:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2019
@@ -57,7 +65,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2019 at the Tecnológico de León Campus 2.
     link: http://semanaitl.itleon.edu.mx/index.php/programa
-  item4:
+  item5:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2018
@@ -65,7 +73,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2018 at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=468&catid=2&Itemid=101
-  item5:
+  item6:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2017
@@ -271,13 +279,10 @@ projects:
 
 # Certifications and awards section
 awards:
+  - 'DeepLearning.AI TensorFlow Developer Specialization - Coursera|DeepLearning.AI 2022'
   - 'Algorithms Specialization Program - Coursera|Stanford Online 2021'
   - 'TOEFL ITP B1 - TOEFL Sep. 2021'
   - 'Speaker in Arduino Primeros Pasos – INSTITUTO TECNOLÓGICO DE LEÓN 2021'
-  - 'Shortest Paths Revisited, NP-Complete Problems and What To Do About Them - Coursera|Stanford Online 2021'
-  - 'Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming - Coursera|Stanford Online 2021'
-  - 'Graph Search, Shortest Paths, and Data Structures - Coursera|Stanford Online 2021'
-  - 'Divide and Conquer, Sorting and Searching, and Randomized Algorithms - Coursera|Stanford Online 2021'
   - 'CIMAT Summer School - CIMAT 2021'
   - 'Deep Learning with TensorFlow - IBM Developer Skills Network 2021'
   - 'Deep Learning Fundamentals - IBM Developer Skills Network 2021'
