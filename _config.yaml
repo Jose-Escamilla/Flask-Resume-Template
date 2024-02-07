@@ -8,9 +8,9 @@ profile:
     address_one: León, Guanajuato
     address_two:
     phone: (477) ASK-4-IT!
-  email: 16240212@leon.tecnm.mx
+  email: jose00escamilla@outlook.es
   description: >
-    I am a science enthusiast, I am currently a recent graduate of Mechatronics Engineering, which allows me to know different branches where science is applied; In general I am interested in everything that is science and technology, I like to share a little of what I know about it. An eternal learner.
+    I am a passionate science enthusiast and a graduate in Mechatronics Engineering. My academic background equips me with a comprehensive understanding of the diverse branches where science is applied. I am deeply fascinated by the vast realms of science and technology, and I take pleasure in sharing my knowledge with others. As a committed eternal learner, I have actively engaged in scientific research as a CONAHCYT researcher, further fueling my enthusiasm for exploring the frontiers of knowledge. I am dedicated to continuous growth, fostering curiosity, and contributing to the ever-evolving landscape of science. An eternal learner.
 # Social section
 social:
   website:
@@ -20,12 +20,20 @@ social:
   facebook: https://www.facebook.com/profile.php?id=100001239615583
   dev:
   medium:
-  whatsapp: https://web.whatsapp.com/
+  whatsapp: https://api.whatsapp.com/send?phone=524775871596&text=%C2%A1Hola!%20Soy%20el%20Ing.%20Jos%C3%A9%20Escamilla.%20%C2%BFEn%20qu%C3%A9%20puedo%20ayudarte%3F
 
 
 # Experience section
 experience:
   item0:
+    position: CONAHCYT researcher
+    company: CONAHCYT
+    from: August 2022
+    to: June 2023
+    description: >
+      My approach was to design customized reinforcement learning algorithms tailored to the specific needs for the project (Robot navigation using reinforcement learning techniques). I used simulation models to train and validate the algorithms, adjusting the parameters and optimizing the performance of the navigation systems.
+    link: https://github.com/Jose-Escamilla/PPO_pytorch_implementation
+  item1:
     position: Teacher
     company: Conamat León
     from: January 2022
@@ -33,7 +41,7 @@ experience:
     description: >
       Informatics teacher. Performing theoretical and practical course planning activities, provides continuous feedback at the end of each class, prepares assignments and exams, resolves doubts, reviews assignments and takes average scores.
     link: https://www.conamat.com/planteles/leon
-  item1:
+  item2:
     position: Professional Internships
     company:  CIMAT, Centro de Investigación en Matemáticas A.C.
     from: January 2021
@@ -41,7 +49,7 @@ experience:
     description: >
       I have participated in a research project in the area of computer science at CIMAT. The project consisted of designing and evaluating pedestrian trajectory prediction algorithms with deep learning techniques, using data that are time series of pedestrian positions (trajectories), all corresponding to time intervals of the same duration, thus inferring what will happen in the near future.
     link: https://pcc.cimat.mx/
-  item2:
+  item3:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2021
@@ -49,7 +57,7 @@ experience:
     description: >
       Virtual and introductory course to the Arduino microcontroller given during the 2021 engineering week at the Tecnológico de León Campus 2.
     link: hhttps://leon.tecnm.mx/wp-content/uploads/2021/10/semana.pdf
-  item3:
+  item4:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2020
@@ -57,7 +65,7 @@ experience:
     description: >
       Virtual and introductory course to the Arduino microcontroller given during the 2020 engineering week at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/documents/A-triptico-patrocinadores.pdf
-  item4:
+  item5:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2019
@@ -65,7 +73,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2019 at the Tecnológico de León Campus 2.
     link: http://semanaitl.itleon.edu.mx/index.php/programa
-  item5:
+  item6:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2018
@@ -73,7 +81,7 @@ experience:
     description: >
       Introductory classroom course to the Arduino microcontroller taught during the engineering week 2018 at the Tecnológico de León Campus 2.
     link: https://www.itleon.edu.mx/index.php?option=com_content&view=article&id=468&catid=2&Itemid=101
-  item6:
+  item7:
     position: Collaborator
     company: Instituto Tecnológico de León
     from: October 2017
