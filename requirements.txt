@@ -1,3 +1,5 @@
-Flask
-oyaml
-gunicorn
+Flask==2.3.3
+PyYAML==6.0.1
+gunicorn==21.2.0
+Werkzeug==2.3.7
+itsdangerous==2.1.2
